@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) [Año] [Tu nombre o nombre de la organización]
+
+Se otorgan permisos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, siempre que se incluya la siguiente nota en todas las copias o partes sustanciales del Software.
